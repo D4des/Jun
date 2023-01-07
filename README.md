@@ -1,3 +1,3 @@
 # Jun
 
-Zoom Clone using NodeJS, WebRTC and Websockets.
+Zoom Chat Clone using NodeJS, WebRTC and Websockets.
